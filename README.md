@@ -1,6 +1,7 @@
 # github-1
 
-Get the number of commits on a given day.
+Get the number of commits on a given day - https://github.com/username
+Preparation for the scraper
 
 document.getElementsByTagName("g")
 
