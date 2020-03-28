@@ -1,5 +1,7 @@
 # github-1
 
+Get the number of commits on a given day.
+
 document.getElementsByTagName("g")
 
 document.getElementsByTagName("g").length
