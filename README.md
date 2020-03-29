@@ -1,6 +1,6 @@
 # github-1
 
-Get the number of commits on a given day - https://github.com/username.
+Get the number of commits on a given day from account - https://github.com/username.
 
 Preparation for the scraper
 
